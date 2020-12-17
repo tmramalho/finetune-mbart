@@ -1,6 +1,6 @@
 # mBART English-Japanese finetuning
 
-It can be difficult to follow the instructions on how to finetune mBART. This is what I did to finetune it for English-Japanese and Japanese-English translation.
+It can be difficult to follow the [original instructions](https://github.com/pytorch/fairseq/blob/master/examples/mbart/README.md) on how to finetune mBART. This is what I did to finetune it for English-Japanese and Japanese-English translation.
 
 Some of these packages may be outdated for the current version of `fairseq`. If you find an issue, contributions are welcome.
 
